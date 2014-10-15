@@ -1,10 +1,3 @@
----
-title: "Codebook.md"
-date: "10/15/2014"
-output: html_document
----
-****
-
 ## Explanation of Variables 
 
 **Activity:** 

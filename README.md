@@ -1,9 +1,3 @@
----
-title: "README - run_analysis.R script"
-date: "10/15/2014"
-output: html_document
----
-****
 # Overview 
 
 The run_analysis.R script will process the "Human Activity Recognition Using Smartphones Data Set" from the UCI Machine Learning Repository located at:
